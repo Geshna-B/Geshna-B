@@ -37,6 +37,19 @@
 ✅ Implemented **end-to-end encryption (AES-based) for secure communication**  
 ✅ Used **multi-threading & socket programming** to enable real-time messaging  
 
+### **ADMM Using PyTorch**  
+📌 *PyTorch, Lasso, Ridge, Logistic, Elastic Net Regression*  
+✅ Assessed the performance of **Alternating Direction Method of Multipliers (ADMM)**  
+✅ Compared **ADMM's efficiency** with traditional algorithms on high-dimensional, sparse, and complex datasets  
+✅ Evaluated **computation speed, convergence, and predictive performance**  
+
+### **Sudoku Solver**  
+📌 *Python, OpenCV, OCR, Machine Learning, Backtracking*  
+✅ Developed an **Automated Sudoku Solver** using image processing and machine learning  
+✅ Integrated **OCR** for digitizing Sudoku grids from images  
+✅ Employed a **backtracking algorithm** for solving the puzzles  
+✅ Demonstrated scalability for solving more complex problems and puzzles
+
 ### **AI-Powered Vision-Based Robotic Arm (In Progress)**  
 📌 *OpenCV, Arduino, CVZone, Servo Motors*  
 ✅ Implementing AI-based object detection & robotic arm control  
