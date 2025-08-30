@@ -1,35 +1,70 @@
-<!-- Header with profile image and name -->
-<h1 align="center">Hi, I'm Geshna B </h1>
+# Geshna Balaji  
+
+**AI & Data Science Engineer | CSE-AI @ Amrita Vishwa Vidyapeetham**  
+Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Applications  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Geshna--B-black?logo=github)](https://github.com/Geshna-B) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geshna%20Balaji-blue?logo=linkedin)](https://www.linkedin.com/in/geshna-balaji/)  
 
 ---
 
-##  About Me  
- **B.Tech in CSE-AI | Amrita School of AI, Coimbatore (2023 – Present)**  
- **Aspiring AI & Data Science Engineer**  
- **Interests:** Machine Learning, Deep Learning, IoT, Robotics, Edge AI, AI for Healthcare  
+## About Me  
+- 3rd Year B.Tech CSE (AI) student at **Amrita School of AI, Coimbatore**.  
+- Interested in **interdisciplinary AI**: healthcare, robotics, IoT, and edge computing.  
+- Currently working on projects combining **ML/DL with real-world applications**.  
+- Career Goal: To build intelligent systems that drive **innovation & impact** globally.  
 
-##  Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-0068FF?style=for-the-badge&logo=edgeimpulse&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+---
 
-### **Technical Skills**  
-- **Programming:** Python, C++, Java, C, SQL, MATLAB  
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Bayesian Networks, Feature Engineering  
-- **Deep Learning & Computer Vision:** CNN, NLP, OpenCV, TensorFlow, PyTorch, Scikit-learn  
-- **Optimization & Data Science:** PCA, t-SNE, FFT, ADMM, Pandas, NumPy, Seaborn  
-- **Mathematics for AI:** Linear Algebra, Probability, Statistics, Graph Theory, Gradient Descent  
-- **Development & Tools:** Flask, Git, DSA, OOPs, Computer Networks  
-- **Embedded & Edge AI:** ESP32, Edge Impulse, IoT  
+## Skills  
+- **Languages**: Python, C++, Java, C, SQL, MATLAB  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Tools**: Pandas, NumPy, Flask, Git/GitHub  
+- **IoT & Edge AI**: ESP32, Arduino, Raspberry Pi, Edge Impulse  
+- **Databases**: Azure SQL, MongoDB  
 
+---
 
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geshna-balaji)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geshna-B)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectbgeshna@gmail.com)  
+## Featured Projects  
 
-**Let’s innovate with AI!**  
+### 🔹 AI-Powered Vision-Based Robotic Arm  
+*Gesture recognition using OpenCV (HSV thresholding, edge detection, Hough Transform) for real-time robotic arm control.*  
+[🔗 Repository](https://github.com/Geshna-B/AI-Powered-Vision-Based-Robotic-Arm)  
+
+### 🔹 WeChat – Secure Multi-Platform Chat App  
+*Cross-platform chat app built with Flutter & Firebase featuring authentication, notifications, and profile management.*  
+[🔗 Repository](https://github.com/Geshna-B/WeChat_A-Secure-Real-Time-and-Multi-Platform-Chat-App)  
+
+### 🔹 Epitope Prediction for Vaccine Development  
+*ML/DL pipeline (RF, XGBoost, LSTM) for B-cell epitope prediction from protein sequences with a web interface.*  
+[🔗 Repository](https://github.com/Geshna-B/Epitope-Prediction-for-Vaccine-Development)  
+
+### 🔹 Sudoku Solver with OCR  
+*Computer vision + backtracking algorithm to scan and solve Sudoku puzzles.*  
+[🔗 Repository](https://github.com/Geshna-B/Sudoku-Solver)  
+
+### 🔹 Multi-Model Genetic Mutation Prioritization  
+*Combines CountVectorizer, TF-IDF, Word2Vec, Doc2Vec with ML/DL models (RF, LR, XGBoost, LightGBM) for cancer mutation ranking.*  
+[🔗 Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
+
+---
+
+## Collaborator Projects  
+
+### 🔹 GramVista – Rural Tourism & Cultural Immersion  
+*Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
+[🔗 Repository](https://github.com/neharmenon05/GramVista)  
+
+### 🔹 Multi-Model Learning for Breast Cancer Prediction  
+*Hybrid DL + ML approach for early breast cancer diagnosis. Achieved 98% accuracy using structured data models.*  
+[🔗 Repository](https://github.com/Dedeepyakatikala/Multi-Model-Learning-for-Breast-Cancer-Prediction)  
+
+---
+
+## Connect With Me  
+- GitHub: [github.com/Geshna-B](https://github.com/Geshna-B)  
+- LinkedIn: [linkedin.com/in/geshna-balaji](https://www.linkedin.com/in/geshna-balaji/)  
+
+*“Intelligence. Innovation. Impact.”*  
+
+---
