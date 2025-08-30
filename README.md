@@ -8,55 +8,6 @@
  **Aspiring AI & Data Science Engineer**  
  **Interests:** Machine Learning, Deep Learning, IoT, Robotics, Edge AI, AI for Healthcare  
 
- **Currently Working On:**  
--  AI-Powered Vision-Based Robotic Arm  
--  Epitope Prediction using ML  
--  IoT-Based Air Pollution Monitoring system using LoRa and ML
-
----
-
-##  Projects  
-### **Genetic Mutation Prioritization in Cancer Detection**  
- *Python, Scikit-learn, XGBoost, LightGBM, NLP*  
- Achieved **90%+ accuracy** in classifying genetic mutations  
- Applied **TF-IDF, Word2Vec, and Doc2Vec** for text preprocessing  
-
-### **Hybrid Spatial Index for Efficient Location-Based Searches**  
- *C++, KD-Trees, Quad-Trees, R-Trees*  
- Developed a hybrid spatial index reducing query time  
- Optimized search efficiency for large-scale datasets  
-
-### **Multi-Model Learning for Breast Cancer Prediction**  
- *Python, TensorFlow, Scikit-learn, CNN*  
- Built a hybrid AI framework combining **CNN & ML models (SVM, XGBoost, LightGBM)**  
- Worked with **histopathology images & Wisconsin Breast Cancer dataset**  
-
-### **WeChat CN - Secure Messaging App**  
- *C, Computer Networks, Socket Programming*  
- Developed a **secure chat application** using client-server architecture  
- Implemented **end-to-end encryption (AES-based) for secure communication**  
- Used **multi-threading & socket programming** to enable real-time messaging  
-
-### **ADMM Using PyTorch**  
- *PyTorch, Lasso, Ridge, Logistic, Elastic Net Regression*  
- Assessed the performance of **Alternating Direction Method of Multipliers (ADMM)**  
- Compared **ADMM's efficiency** with traditional algorithms on high-dimensional, sparse, and complex datasets  
- Evaluated **computation speed, convergence, and predictive performance**  
-
-### **Sudoku Solver**  
- *Python, OpenCV, OCR, Machine Learning, Backtracking*  
- Developed an **Automated Sudoku Solver** using image processing and machine learning  
- Integrated **OCR** for digitizing Sudoku grids from images  
- Employed a **backtracking algorithm** for solving the puzzles  
- Demonstrated scalability for solving more complex problems and puzzles
-
-### **AI-Powered Vision-Based Robotic Arm (In Progress)**  
- *OpenCV, Arduino, CVZone, Servo Motors*  
- Implementing AI-based object detection & robotic arm control  
- Integrating **OpenCV for image processing & Arduino for motor control**  
-
----
-
 ##  Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
