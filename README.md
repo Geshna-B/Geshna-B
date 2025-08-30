@@ -49,7 +49,9 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 
 ---
 
-## Collaborator Projects  
+## Team Projects 
+
+These projects were developed as part of a **4-member team**, where we all contributed equally in design, development, and implementation.  
 
 ### 🔹 GramVista – Rural Tourism & Cultural Immersion  
 *Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
