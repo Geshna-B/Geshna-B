@@ -37,7 +37,7 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 
 ### 🔹 Epitope Prediction for Vaccine Development  
 *ML/DL pipeline (RF, XGBoost, LSTM) for B-cell epitope prediction from protein sequences with a web interface.*  
-[🔗 Repository](https://github.com/Geshna-B/Epitope-Prediction-for-Vaccine-Development)  
+[🔗 Repository](https://github.com/Geshna-B/Epitope-Prediction.git)  
 
 ### 🔹 Sudoku Solver with OCR  
 *Computer vision + backtracking algorithm to scan and solve Sudoku puzzles.*  
