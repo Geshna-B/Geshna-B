@@ -47,12 +47,6 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 *Combines CountVectorizer, TF-IDF, Word2Vec, Doc2Vec with ML/DL models (RF, LR, XGBoost, LightGBM) for cancer mutation ranking.*  
 [🔗 Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
 
----
-
-## Team Projects 
-
-These projects were developed as part of a **4-member team**, where we all contributed equally in design, development, and implementation.  
-
 ### 🔹 GramVista – Rural Tourism & Cultural Immersion  
 *Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
 [🔗 Repository](https://github.com/neharmenon05/GramVista)  
