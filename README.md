@@ -27,33 +27,68 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 
 ## Featured Projects  
 
-### 🔹 AI-Powered Vision-Based Robotic Arm  
+### HealthIntellect – Medical NLP Analytics Suite
+
+*Medical NLP system for clinical text analysis and insights.*
+[Repository](https://github.com/Geshna-B/HealthIntellect-Medical-NLP-Analytics-Suite)
+
+### Plagiarism Detection System
+
+*NLP-based document similarity and plagiarism detection.*
+[Repository](https://github.com/Geshna-B/Plagiarism-Detection-System)
+
+### MedAI – Multimodal Clinical Decision Support
+
+*Multimodal AI framework for clinical decision support.*
+[Repository](https://github.com/Geshna-B/MedAI-Multimodal-Clinical-Decision-Support-System)
+
+### Probabilistic Market Ecosystem Analyser
+
+*Probabilistic modeling for market and ecosystem analysis.*
+[Repository](https://github.com/Geshna-B/Probabilistic-Market-Ecosystem-Analyser)
+
+### LearnHub
+
+*AI-powered personalized learning platform.*
+[Repository](https://github.com/malavikaPrasad11/LearnHub)
+
+### AI-Powered Group Discussion Simulator 
+
+*AI-based group discussion simulation and evaluation system.*
+[Repository](https://github.com/AsmiK222/ai-powered-group-discussion-simulator-for-skill-assessment_final)
+
+### AI-Enabled Learning Platform 
+
+*AI-driven learning platform with analytics.*
+[Repository](https://github.com/Vibhusanchana/ai-enabled-learning-platform)
+
+### AI-Powered Vision-Based Robotic Arm  
 *Gesture recognition using OpenCV (HSV thresholding, edge detection, Hough Transform) for real-time robotic arm control.*  
-[🔗 Repository](https://github.com/Geshna-B/AI-Powered-Vision-Based-Robotic-Arm)  
+[Repository](https://github.com/Geshna-B/AI-Powered-Vision-Based-Robotic-Arm)  
 
-### 🔹 WeChat – Secure Multi-Platform Chat App  
+### WeChat – Secure Multi-Platform Chat App  
 *Cross-platform chat app built with Flutter & Firebase featuring authentication, notifications, and profile management.*  
-[🔗 Repository](https://github.com/Geshna-B/WeChat_A-Secure-Real-Time-and-Multi-Platform-Chat-App)  
+[Repository](https://github.com/Geshna-B/WeChat_A-Secure-Real-Time-and-Multi-Platform-Chat-App)  
 
-### 🔹 Epitope Prediction for Vaccine Development  
+### Epitope Prediction for Vaccine Development  
 *ML/DL pipeline (RF, XGBoost, LSTM) for B-cell epitope prediction from protein sequences with a web interface.*  
-[🔗 Repository](https://github.com/Geshna-B/Epitope-Prediction.git)  
+[Repository](https://github.com/Geshna-B/Epitope-Prediction.git)  
 
-### 🔹 Sudoku Solver with OCR  
+### Sudoku Solver with OCR  
 *Computer vision + backtracking algorithm to scan and solve Sudoku puzzles.*  
-[🔗 Repository](https://github.com/Geshna-B/Sudoku-Solver)  
+[Repository](https://github.com/Geshna-B/Sudoku-Solver)  
 
-### 🔹 Multi-Model Genetic Mutation Prioritization  
+### Multi-Model Genetic Mutation Prioritization  
 *Combines CountVectorizer, TF-IDF, Word2Vec, Doc2Vec with ML/DL models (RF, LR, XGBoost, LightGBM) for cancer mutation ranking.*  
-[🔗 Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
+[Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
 
-### 🔹 GramVista – Rural Tourism & Cultural Immersion  
+### GramVista – Rural Tourism & Cultural Immersion  
 *Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
-[🔗 Repository](https://github.com/neharmenon05/GramVista)  
+[Repository](https://github.com/neharmenon05/GramVista)  
 
-### 🔹 Multi-Model Learning for Breast Cancer Prediction  
+### Multi-Model Learning for Breast Cancer Prediction  
 *Hybrid DL + ML approach for early breast cancer diagnosis. Achieved 98% accuracy using structured data models.*  
-[🔗 Repository](https://github.com/Dedeepyakatikala/Multi-Model-Learning-for-Breast-Cancer-Prediction)  
+[Repository](https://github.com/Dedeepyakatikala/Multi-Model-Learning-for-Breast-Cancer-Prediction)  
 
 ---
 
