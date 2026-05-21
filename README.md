@@ -25,7 +25,57 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 
 ---
 
+
 ## Featured Projects  
+
+
+### MediGuide AI – Intelligent Healthcare Assistant
+
+*Full-stack AI-powered healthcare platform featuring symptom analysis, disease prediction, drug interaction checking, pill identification, doctor discovery, and medical knowledge graph integration.*
+[Repository](https://github.com/vibhusanchana/MediGuide-AI)
+
+### Markerless AR-Based Interactive Anatomy Learning
+
+*Augmented Reality anatomy learning system using markerless AR and computer vision to enable interactive 3D visualization of human organs and anatomical structures for immersive medical education.*
+[Repository](https://github.com/Geshna-B/Markerless-AR-Based-Interactive-Anatomy-Learning)
+
+### Electricity Consumption Time Series Forecasting
+
+*Forecasting household electricity consumption using ARIMA, GARCH, Custom LSTM, and GRU models with advanced feature engineering and SE-Attention mechanisms for accurate time series prediction.*
+[Repository](https://github.com/Geshna-B/Electricity-Consumption-Time-Series-Forecasting)
+
+### Multilingual Text Summarization for Indian Languages
+
+*Deep learning–based multilingual abstractive summarization system that generates Tamil, Malayalam, and Telugu summaries from English texts using Transformer, BiGRU, Attention, and Coverage mechanisms. Built with PyTorch and Hugging Face Transformers using the PMIndiaSum dataset.*
+[Repository](https://github.com/malavikaprasad11/Multilingual-Text-Summarization-for-Indian-Languages)
+
+### Sentiment Analysis of Amazon Electronics Reviews using Spark MLlib
+
+*Distributed big data sentiment analysis pipeline using Apache Spark MLlib, Hadoop HDFS, TF-IDF feature extraction, and ML models (Logistic Regression, Random Forest) for classifying 6M+ Amazon Electronics reviews.*
+[Repository](https://github.com/asmik222/amazon-electronics-sentiment-analysis-spark-mllib)
+
+### Multi-Model Genetic Mutation Prioritization  
+*Combines CountVectorizer, TF-IDF, Word2Vec, Doc2Vec with ML/DL models (RF, LR, XGBoost, LightGBM) for cancer mutation ranking.*  
+[Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
+
+### GramVista – Rural Tourism & Cultural Immersion  
+*Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
+[Repository](https://github.com/neharmenon05/GramVista)  
+
+### Multi-Model Learning for Breast Cancer Prediction  
+*Hybrid DL + ML approach for early breast cancer diagnosis. Achieved 98% accuracy using structured data models.*  
+[Repository](https://github.com/Dedeepyakatikala/Multi-Model-Learning-for-Breast-Cancer-Prediction)  
+
+### MedAI – Multimodal Clinical Decision Support
+
+*Multimodal AI framework for clinical decision support.*
+[Repository](https://github.com/Geshna-B/MedAI-Multimodal-Clinical-Decision-Support-System)
+
+### AI-Powered Group Discussion Simulator 
+
+*AI-based group discussion simulation and evaluation system.*
+[Repository](https://github.com/AsmiK222/ai-powered-group-discussion-simulator-for-skill-assessment_final)
+
 
 ### HealthIntellect – Medical NLP Analytics Suite
 
@@ -37,34 +87,25 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 *NLP-based document similarity and plagiarism detection.*
 [Repository](https://github.com/Geshna-B/Plagiarism-Detection-System)
 
-### MedAI – Multimodal Clinical Decision Support
+### LearnHub
 
-*Multimodal AI framework for clinical decision support.*
-[Repository](https://github.com/Geshna-B/MedAI-Multimodal-Clinical-Decision-Support-System)
+*AI-powered personalized learning platform.*
+[Repository](https://github.com/malavikaPrasad11/LearnHub)
 
 ### Probabilistic Market Ecosystem Analyser
 
 *Probabilistic modeling for market and ecosystem analysis.*
 [Repository](https://github.com/Geshna-B/Probabilistic-Market-Ecosystem-Analyser)
 
-### LearnHub
 
-*AI-powered personalized learning platform.*
-[Repository](https://github.com/malavikaPrasad11/LearnHub)
-
-### AI-Powered Group Discussion Simulator 
-
-*AI-based group discussion simulation and evaluation system.*
-[Repository](https://github.com/AsmiK222/ai-powered-group-discussion-simulator-for-skill-assessment_final)
+### AI-Powered Vision-Based Robotic Arm  
+*Gesture recognition using OpenCV (HSV thresholding, edge detection, Hough Transform) for real-time robotic arm control.*  
+[Repository](https://github.com/Geshna-B/AI-Powered-Vision-Based-Robotic-Arm)  
 
 ### AI-Enabled Learning Platform 
 
 *AI-driven learning platform with analytics.*
 [Repository](https://github.com/Vibhusanchana/ai-enabled-learning-platform)
-
-### AI-Powered Vision-Based Robotic Arm  
-*Gesture recognition using OpenCV (HSV thresholding, edge detection, Hough Transform) for real-time robotic arm control.*  
-[Repository](https://github.com/Geshna-B/AI-Powered-Vision-Based-Robotic-Arm)  
 
 ### WeChat – Secure Multi-Platform Chat App  
 *Cross-platform chat app built with Flutter & Firebase featuring authentication, notifications, and profile management.*  
@@ -78,17 +119,7 @@ Passionate about Machine Learning, Deep Learning, IoT, Edge AI & Healthcare Appl
 *Computer vision + backtracking algorithm to scan and solve Sudoku puzzles.*  
 [Repository](https://github.com/Geshna-B/Sudoku-Solver)  
 
-### Multi-Model Genetic Mutation Prioritization  
-*Combines CountVectorizer, TF-IDF, Word2Vec, Doc2Vec with ML/DL models (RF, LR, XGBoost, LightGBM) for cancer mutation ranking.*  
-[Repository](https://github.com/Geshna-B/Multi-Model-Approach-for-Genetic-Mutation-Prioritization-in-Cancer-Detection)  
 
-### GramVista – Rural Tourism & Cultural Immersion  
-*Full-stack platform connecting urban travelers with rural India using AI, blockchain & sustainability tools.*  
-[Repository](https://github.com/neharmenon05/GramVista)  
-
-### Multi-Model Learning for Breast Cancer Prediction  
-*Hybrid DL + ML approach for early breast cancer diagnosis. Achieved 98% accuracy using structured data models.*  
-[Repository](https://github.com/Dedeepyakatikala/Multi-Model-Learning-for-Breast-Cancer-Prediction)  
 
 ---
 
